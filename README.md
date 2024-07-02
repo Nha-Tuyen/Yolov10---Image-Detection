@@ -1,1 +1,1 @@
-# Yolov10---Image-Detection
+# Yolov10-Image-Detection
